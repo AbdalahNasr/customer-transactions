@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AbdalahNasr/customer-transactions/static/css/main.3af13ad1.css",
-    "main.js": "/AbdalahNasr/customer-transactions/static/js/main.db8fdec9.js",
-    "static/js/453.cc72428f.chunk.js": "/AbdalahNasr/customer-transactions/static/js/453.cc72428f.chunk.js",
-    "index.html": "/AbdalahNasr/customer-transactions/index.html",
-    "main.3af13ad1.css.map": "/AbdalahNasr/customer-transactions/static/css/main.3af13ad1.css.map",
-    "main.db8fdec9.js.map": "/AbdalahNasr/customer-transactions/static/js/main.db8fdec9.js.map",
-    "453.cc72428f.chunk.js.map": "/AbdalahNasr/customer-transactions/static/js/453.cc72428f.chunk.js.map"
+    "main.css": "/customer-transactions/static/css/main.3af13ad1.css",
+    "main.js": "/customer-transactions/static/js/main.e599bd33.js",
+    "static/js/453.cc72428f.chunk.js": "/customer-transactions/static/js/453.cc72428f.chunk.js",
+    "index.html": "/customer-transactions/index.html",
+    "main.3af13ad1.css.map": "/customer-transactions/static/css/main.3af13ad1.css.map",
+    "main.e599bd33.js.map": "/customer-transactions/static/js/main.e599bd33.js.map",
+    "453.cc72428f.chunk.js.map": "/customer-transactions/static/js/453.cc72428f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3af13ad1.css",
-    "static/js/main.db8fdec9.js"
+    "static/js/main.e599bd33.js"
   ]
 }
